@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "afc4c9dd-8d66-358b-8b8b-98baedbba298",
+    "name": "Pikel_03",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f0c00d82-0d58-3b89-af0b-9c6838e550a1",
+    "name": "DinokoMC",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1aeaa7cc-6376-3256-be3e-ab68b32c3bc6",
+    "name": "ziKoc",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
