@@ -2143,3 +2143,40 @@ BCLib - The End  BiomeSource (44331b72)
 [02:25:06] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
 [02:26:15] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
 [02:34:44] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[02:43:05] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 63.500000, 64.500000, 155.500000]
+[02:45:50] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[02:47:56] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/412, l='ServerLevel[world]', x=102.30, y=64.00, z=148.56] at TeleportTarget{pitch=7.678543, position=(-1.5, 76.0, 22.557433293655663), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-102.55737}
+[02:51:41] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[02:51:42] [Server thread/INFO]: [DinokoMC: Set own game mode to Adventure Mode]
+[02:51:44] [Server thread/INFO]: [DinokoMC: Set own game mode to Spectator Mode]
+[02:51:58] [Server thread/INFO]: [DinokoMC: Set own game mode to Adventure Mode]
+[02:52:02] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[02:52:08] [Server thread/INFO]: [Pikel_03: Set own game mode to Spectator Mode]
+[02:52:35] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:52:35] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:52:35] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:52:35] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:52:35] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:52:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:52:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:52:38] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:52:38] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:52:38] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:52:38] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:52:48] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:52:48] [Worker-Main-13/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:52:48] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:52:49] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:52:49] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:52:49] [Worker-Main-14/INFO]: Instantiating Mojang DFU
+[02:53:21] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:53:21] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:53:21] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:53:21] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:53:37] [Worker-Main-14/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:53:37] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:53:37] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:53:37] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:53:37] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:53:52] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[02:55:21] [Server thread/INFO]: Pikel_03 has made the advancement [War Pigs]

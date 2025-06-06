@@ -7001,5 +7001,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-06 02:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-06-06 02:55:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
