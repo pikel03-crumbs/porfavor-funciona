@@ -2222,3 +2222,6 @@ BCLib - The End  BiomeSource (44331b72)
 [03:18:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [03:18:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [03:18:47] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/porfavor-funciona/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:21:48] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[03:21:57] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[03:22:44] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/46173, l='ServerLevel[world]', x=102.57, y=63.00, z=148.48] at TeleportTarget{pitch=23.047554, position=(-1.5, 75.0, 22.481071682520195), velocity=(0.0, -0.0784000015258789, 0.0), yaw=79.80475}
