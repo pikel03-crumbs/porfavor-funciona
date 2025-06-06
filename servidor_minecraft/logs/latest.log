@@ -2187,3 +2187,33 @@ BCLib - The End  BiomeSource (547fb791)
 [04:11:56] [Server thread/INFO]: [Not Secure] <DinokoMC> gafo
 [04:11:57] [Server thread/INFO]: [Not Secure] <DinokoMC> gafo
 [04:11:58] [Server thread/INFO]: [Not Secure] <DinokoMC> gafo
+[04:12:00] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[04:12:00] [Server thread/INFO]: DinokoMC left the game
+[04:12:02] [Server thread/INFO]: DinokoMC[/127.67.254.107:49045] logged in with entity id 20367 at (56.44434570377612, 64.0, 169.19293863143352)
+[04:12:02] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[04:12:02] [Server thread/INFO]: Loading config from file...
+[04:12:02] [Server thread/INFO]: DinokoMC joined the game
+[04:12:02] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[04:12:02] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[04:12:02] [ForkJoinPool-5-worker-3/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[04:12:02] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:12:02] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:12:02] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:12:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:12:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:12:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:12:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[04:12:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[04:12:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[04:12:02] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[04:12:02] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/porfavor-funciona/servidor_minecraft/bclib-sync (allowDelete=true)
+[04:12:02] [ForkJoinPool-5-worker-3/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[04:12:03] [ForkJoinPool-5-worker-3/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[04:12:03] [Server thread/INFO]: [Not Secure] <Pikel_03> papapapapapa pa cojeteee
+[04:12:09] [Server thread/INFO]: [Not Secure] <DinokoMC> ajaja
+[04:12:11] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[04:12:11] [Server thread/INFO]: DinokoMC left the game
+[04:12:36] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/17717, l='ServerLevel[world]', x=102.30, y=63.00, z=148.76] at TeleportTarget{pitch=67.219185, position=(-1.5, 75.0, 22.760057474610647), velocity=(0.0, -0.0784000015258789, 0.0), yaw=178.48267}
+[04:12:43] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -346.500000, 13.500000, -102.500000]
+[04:19:11] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -4.500000, 75.500000, 23.500000]
+[04:19:15] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/17717, l='ServerLevel[world]', x=-1.58, y=75.00, z=23.08] at TeleportTarget{pitch=68.7725, position=(102.5, 63.0, 149.07548972297656), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-58.467293}
