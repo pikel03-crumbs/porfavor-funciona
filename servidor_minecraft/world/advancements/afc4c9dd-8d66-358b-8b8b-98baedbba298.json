@@ -7025,5 +7025,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/netherite_smithing": {
+    "criteria": {
+      "has_netherite": "2025-06-06 04:27:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

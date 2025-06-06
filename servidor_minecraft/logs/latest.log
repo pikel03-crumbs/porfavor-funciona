@@ -2217,3 +2217,5 @@ BCLib - The End  BiomeSource (547fb791)
 [04:12:43] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -346.500000, 13.500000, -102.500000]
 [04:19:11] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -4.500000, 75.500000, 23.500000]
 [04:19:15] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/17717, l='ServerLevel[world]', x=-1.58, y=75.00, z=23.08] at TeleportTarget{pitch=68.7725, position=(102.5, 63.0, 149.07548972297656), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-58.467293}
+[04:25:21] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[04:25:54] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
