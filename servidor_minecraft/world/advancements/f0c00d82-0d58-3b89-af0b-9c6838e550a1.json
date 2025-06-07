@@ -15,18 +15,24 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-06-05 00:40:32 +0000",
       "minecraft:taiga": "2025-05-31 00:40:26 +0000",
+      "minecraft:frozen_river": "2025-06-07 02:29:12 +0000",
       "minecraft:sunflower_plains": "2025-06-02 00:02:47 +0000",
       "minecraft:birch_forest": "2025-06-02 00:07:11 +0000",
+      "minecraft:windswept_hills": "2025-06-07 02:32:39 +0000",
       "minecraft:beach": "2025-05-29 01:16:43 +0000",
       "minecraft:dark_forest": "2025-06-03 03:17:46 +0000",
+      "minecraft:mangrove_swamp": "2025-06-07 02:40:05 +0000",
       "minecraft:river": "2025-05-29 01:09:33 +0000",
       "minecraft:stony_shore": "2025-06-02 00:05:18 +0000",
       "minecraft:snowy_plains": "2025-06-05 00:46:55 +0000",
+      "minecraft:snowy_taiga": "2025-06-07 02:29:07 +0000",
       "minecraft:grove": "2025-06-05 00:34:46 +0000",
+      "minecraft:swamp": "2025-06-07 02:33:49 +0000",
       "minecraft:jagged_peaks": "2025-06-05 00:34:54 +0000",
       "minecraft:cold_ocean": "2025-05-30 03:18:59 +0000",
       "minecraft:forest": "2025-05-29 01:09:47 +0000",
       "minecraft:lush_caves": "2025-06-03 03:17:58 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-07 02:22:52 +0000",
       "minecraft:frozen_ocean": "2025-06-05 00:44:04 +0000",
       "minecraft:windswept_forest": "2025-06-03 03:17:05 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-05 00:44:06 +0000",
@@ -34,7 +40,9 @@
       "minecraft:old_growth_spruce_taiga": "2025-06-05 00:41:22 +0000",
       "minecraft:snowy_beach": "2025-06-05 00:47:03 +0000",
       "minecraft:flower_forest": "2025-05-31 00:39:33 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-07 02:33:48 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-03 03:15:00 +0000",
+      "minecraft:savanna": "2025-06-07 02:45:50 +0000",
       "minecraft:plains": "2025-05-29 01:08:30 +0000"
     },
     "done": false
@@ -1395,9 +1403,13 @@
       "minecraft:spider": "2025-05-29 01:33:52 +0000",
       "minecraft:piglin_brute": "2025-05-31 01:48:15 +0000",
       "minecraft:creeper": "2025-05-29 01:33:49 +0000",
+      "minecraft:slime": "2025-06-07 02:42:40 +0000",
+      "minecraft:phantom": "2025-06-07 01:44:58 +0000",
+      "minecraft:witch": "2025-06-07 02:32:47 +0000",
       "minecraft:wither_skeleton": "2025-05-31 01:33:30 +0000",
       "minecraft:ender_dragon": "2025-06-02 01:22:00 +0000",
       "minecraft:shulker": "2025-06-02 02:32:10 +0000",
+      "minecraft:cave_spider": "2025-06-07 01:55:14 +0000",
       "minecraft:piglin": "2025-06-01 23:20:14 +0000",
       "minecraft:enderman": "2025-05-30 03:20:10 +0000",
       "minecraft:silverfish": "2025-06-02 00:52:36 +0000",
@@ -5801,6 +5813,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "swamp_village": "2025-06-07 02:40:20 +0000",
       "illager_camp": "2025-06-05 00:41:12 +0000"
     },
     "done": false
@@ -5916,6 +5929,18 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-06-06 03:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-06-07 02:17:44 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_swamp_village": {
+    "criteria": {
+      "minecraft:village_swamp": "2025-06-07 02:40:20 +0000"
     },
     "done": true
   },

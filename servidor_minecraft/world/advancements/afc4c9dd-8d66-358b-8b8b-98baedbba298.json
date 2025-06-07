@@ -1545,7 +1545,9 @@
       "minecraft:piglin_brute": "2025-05-31 01:28:02 +0000",
       "minecraft:creeper": "2025-05-30 03:03:56 +0000",
       "minecraft:wither": "2025-06-03 02:23:27 +0000",
+      "minecraft:slime": "2025-06-07 02:42:47 +0000",
       "minecraft:phantom": "2025-06-03 15:40:53 +0000",
+      "minecraft:witch": "2025-06-07 02:41:03 +0000",
       "minecraft:wither_skeleton": "2025-05-31 01:39:39 +0000",
       "minecraft:husk": "2025-06-03 20:35:51 +0000",
       "minecraft:shulker": "2025-06-02 02:31:05 +0000",
@@ -2294,6 +2296,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "swamp_village": "2025-06-07 02:40:33 +0000",
       "illager_camp": "2025-05-31 00:38:31 +0000"
     },
     "done": false
@@ -7028,6 +7031,24 @@
   "travelersbackpack:recipes/misc/netherite_smithing": {
     "criteria": {
       "has_netherite": "2025-06-06 04:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-06-07 02:17:54 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_swamp_village": {
+    "criteria": {
+      "minecraft:village_swamp": "2025-06-07 02:40:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-06-07 02:41:34 +0000"
     },
     "done": true
   },
