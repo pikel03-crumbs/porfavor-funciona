@@ -2310,3 +2310,13 @@ Reason: Banned by an operator.
 [02:53:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [02:53:23] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/porfavor-funciona/servidor_minecraft/bclib-sync (allowDelete=true)
 [02:53:43] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 52.500000, 64.500000, 161.500000]
+[02:59:15] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/32850, l='ServerLevel[world]', x=102.14, y=64.00, z=148.73] at TeleportTarget{pitch=52.20466, position=(-1.5, 76.0, 22.727650306674803), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-1.1492181}
+[02:59:23] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/13617, l='ServerLevel[world]', x=102.51, y=63.00, z=149.42] at TeleportTarget{pitch=22.264204, position=(-1.5, 75.0, 23.415217173331172), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-81.74904}
+[03:00:23] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
+[03:03:23] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
+[03:03:46] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[03:03:52] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[03:05:39] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 52.500000, 64.500000, 161.500000]
+[03:05:52] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[03:05:55] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[03:06:30] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
