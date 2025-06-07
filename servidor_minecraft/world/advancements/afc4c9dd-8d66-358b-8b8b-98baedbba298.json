@@ -45,6 +45,7 @@
       "minecraft:jungle": "2025-06-03 20:14:34 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-03 19:40:31 +0000",
       "minecraft:snowy_beach": "2025-06-03 20:45:14 +0000",
+      "minecraft:windswept_savanna": "2025-06-07 03:27:12 +0000",
       "minecraft:warm_ocean": "2025-06-03 20:34:08 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-03 20:33:49 +0000",
       "minecraft:flower_forest": "2025-06-03 20:08:57 +0000",
@@ -7075,6 +7076,24 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-06-07 02:58:15 +0000"
+    },
+    "done": true
+  },
+  "betterend:portal_travel": {
+    "criteria": {
+      "travel": "2025-06-07 03:27:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:portal_on": {
+    "criteria": {
+      "turn_on": "2025-06-07 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-06-07 03:26:05 +0000"
     },
     "done": true
   },

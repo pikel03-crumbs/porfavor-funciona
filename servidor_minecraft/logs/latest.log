@@ -2327,3 +2327,66 @@ Reason: Banned by an operator.
 [03:17:07] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1305.500000, 16.500000, -747.500000]
 [03:17:12] [Server thread/WARN]: Pikel_03 moved too quickly! 1412.3474369405762,30.51102912385573,745.7119913861017
 [03:17:25] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -5358.500000, 58.500000, 1984.500000]
+[03:18:59] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
+[03:19:17] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[03:19:26] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[03:19:58] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[03:23:40] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1305.500000, 16.500000, -747.500000]
+[03:23:48] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -5358.500000, 58.500000, 1984.500000]
+[03:24:35] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[03:25:04] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[03:25:20] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/13617, l='ServerLevel[world]', x=102.46, y=63.00, z=148.99] at TeleportTarget{pitch=18.677002, position=(-1.5, 75.0, 22.987671095097653), velocity=(0.0, -0.0784000015258789, 0.0), yaw=8.3204}
+[03:25:42] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[03:25:51] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[03:26:02] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[03:26:05] [Server thread/INFO]: Pikel_03 has made the advancement [The Cutest Predator]
+[03:27:04] [Server thread/INFO]: Pikel_03 has made the advancement [Eternal Light]
+[03:27:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19918ms or 398 ticks behind
+[03:27:04] [Server thread/WARN]: Pikel_03 moved too quickly! 8.612955263486583,0.0,5.4135876150473905
+[03:27:04] [Server thread/WARN]: ziKoc moved too quickly! -7.768059429678942,6.249187078744683,1.1842798503196263
+[03:27:11] [Server thread/INFO]: ziKoc has completed the challenge [Eternal Ways]
+[03:27:11] [Server thread/WARN]: ziKoc moved too quickly! -14.0,6.0,-11.000048816204071
+[03:27:12] [Server thread/INFO]: Pikel_03 has completed the challenge [Eternal Ways]
+[03:27:13] [Server thread/WARN]: Pikel_03 moved too quickly! -14.0,6.0,-11.000048816204071
+[03:27:14] [Server thread/INFO]: DinokoMC has completed the challenge [Eternal Ways]
+[03:27:14] [Server thread/WARN]: DinokoMC moved too quickly! -14.0,6.0,-11.000048816204071
+[03:27:47] [Server thread/WARN]: DinokoMC moved too quickly! 14.0,-4.0,10.999951183795929
+[03:27:49] [Server thread/WARN]: Pikel_03 moved too quickly! 14.0,-4.0,10.999951183795929
+[03:28:02] [Server thread/WARN]: ziKoc moved too quickly! 14.0,-4.0,10.999951183795929
+[03:28:18] [Server thread/WARN]: Pikel_03 moved too quickly! -14.0,6.0,-11.000048816204071
+[03:28:26] [Server thread/WARN]: DinokoMC moved too quickly! -14.0,6.0,-11.000048816204071
+[03:28:32] [Server thread/WARN]: ziKoc moved too quickly! -14.0,6.0,-11.000048816204071
+[03:28:37] [Server thread/INFO]: [ziKoc: Teleported ziKoc to -1305.500000, 16.500000, -747.500000]
+[03:28:40] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 59.500000, 64.500000, 177.500000]
+[03:28:55] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/13617, l='ServerLevel[world]', x=102.70, y=63.00, z=148.80] at TeleportTarget{pitch=23.495922, position=(-1.5, 75.0, 22.79763098166771), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-4.1001463}
+[03:30:03] [Server thread/WARN]: ziKoc moved wrongly!
+[03:31:10] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[03:31:27] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1305.500000, 16.500000, -747.500000]
+[03:31:35] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -5358.500000, 58.500000, 1984.500000]
+[03:31:40] [Server thread/ERROR]: [betterend] Unable to locate an active portal
+[03:32:02] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[03:32:05] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[03:32:06] [Server thread/ERROR]: [betterend] Unable to locate an active portal
+[03:32:09] [Server thread/ERROR]: [betterend] Unable to locate an active portal
+[03:32:42] [Server thread/INFO]: DinokoMC has made the advancement [Eternal Light]
+[03:32:58] [Server thread/WARN]: Pikel_03 moved too quickly! -14.0,6.0,-11.000048816204071
+[03:32:59] [Server thread/WARN]: DinokoMC moved too quickly! -14.0,6.0,-11.000048816204071
+[03:32:59] [Server thread/WARN]: ziKoc moved too quickly! -14.0,6.0,-11.000048816204071
+[03:33:14] [Server thread/WARN]: Pikel_03 moved too quickly! 14.0,-4.0,10.999951183795929
+[03:33:15] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 59.500000, 64.500000, 177.500000]
+[03:33:26] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/13617, l='ServerLevel[world]', x=102.70, y=63.00, z=149.38] at TeleportTarget{pitch=29.610004, position=(-1.5, 75.0, 23.37791198209169), velocity=(0.0, -0.0784000015258789, 0.0), yaw=2.3081055}
+[03:33:33] [Server thread/WARN]: Pikel_03 moved too quickly! -14.0,6.0,-11.000048816204071
+[03:34:03] [Server thread/WARN]: Pikel_03 moved too quickly! 14.0,-4.0,10.999951183795929
+[03:34:05] [Server thread/WARN]: DinokoMC moved too quickly! 14.0,-4.0,10.999951183795929
+[03:34:13] [Server thread/WARN]: DinokoMC moved too quickly! -14.0,6.0,-11.000048816204071
+[03:34:49] [Server thread/INFO]: [Not Secure] <ziKoc> xaero-waypoint:BASE:B:59:64:177:1:false:0:Internal-overworld-waypoints
+[03:34:53] [Server thread/WARN]: Pikel_03 moved too quickly! -14.0,6.0,-11.000048816204071
+[03:35:00] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 59.500000, 64.500000, 177.500000]
+[03:35:45] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1305.500000, 16.500000, -747.500000]
+[03:35:55] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -1305.500000, 16.500000, -747.500000]
+[03:36:06] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[03:36:26] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[03:36:48] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 59.500000, 64.500000, 177.500000]
+[03:36:59] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/13617, l='ServerLevel[world]', x=102.37, y=63.00, z=149.11] at TeleportTarget{pitch=33.843544, position=(-1.5, 75.0, 23.106728211682025), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-144.0962}
+[03:37:03] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 59.500000, 64.500000, 177.500000]
+[03:37:26] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 52.500000, 64.500000, 161.500000]

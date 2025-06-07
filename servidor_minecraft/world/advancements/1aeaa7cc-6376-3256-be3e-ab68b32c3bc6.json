@@ -18,9 +18,11 @@
       "minecraft:cherry_grove": "2025-06-04 02:12:31 +0000",
       "minecraft:birch_forest": "2025-06-01 04:28:45 +0000",
       "minecraft:windswept_hills": "2025-05-31 03:20:47 +0000",
+      "minecraft:bamboo_jungle": "2025-06-07 03:27:37 +0000",
       "minecraft:beach": "2025-05-30 02:52:51 +0000",
       "minecraft:dark_forest": "2025-06-01 04:30:30 +0000",
       "minecraft:mangrove_swamp": "2025-06-07 02:40:32 +0000",
+      "minecraft:sparse_jungle": "2025-06-07 03:27:35 +0000",
       "minecraft:river": "2025-05-31 01:14:00 +0000",
       "minecraft:stony_shore": "2025-06-02 03:26:54 +0000",
       "minecraft:swamp": "2025-06-07 02:42:55 +0000",
@@ -29,6 +31,8 @@
       "minecraft:lush_caves": "2025-06-01 04:32:22 +0000",
       "minecraft:windswept_forest": "2025-06-01 04:29:02 +0000",
       "minecraft:ocean": "2025-06-02 01:16:21 +0000",
+      "minecraft:jungle": "2025-06-07 03:31:59 +0000",
+      "minecraft:windswept_savanna": "2025-06-07 03:27:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-02 04:02:45 +0000",
       "minecraft:windswept_gravelly_hills": "2025-05-31 03:20:35 +0000",
       "minecraft:plains": "2025-05-30 02:49:01 +0000"
@@ -5879,9 +5883,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-06-07 03:32:03 +0000"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/stone/nether_bricks": {
+    "criteria": {
+      "requirement": "2025-06-07 03:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
       "has_mud": "2025-06-07 02:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-06-07 03:32:02 +0000"
+    },
+    "done": true
+  },
+  "betterend:portal_travel": {
+    "criteria": {
+      "travel": "2025-06-07 03:27:11 +0000"
     },
     "done": true
   },
