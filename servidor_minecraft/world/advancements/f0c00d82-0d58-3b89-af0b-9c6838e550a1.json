@@ -26,6 +26,7 @@
       "minecraft:river": "2025-05-29 01:09:33 +0000",
       "minecraft:stony_shore": "2025-06-02 00:05:18 +0000",
       "minecraft:snowy_plains": "2025-06-05 00:46:55 +0000",
+      "minecraft:dripstone_caves": "2025-06-07 04:03:41 +0000",
       "minecraft:snowy_taiga": "2025-06-07 02:29:07 +0000",
       "minecraft:grove": "2025-06-05 00:34:46 +0000",
       "minecraft:swamp": "2025-06-07 02:33:49 +0000",
@@ -5946,6 +5947,24 @@
     },
     "done": true
   },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-06-07 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/charcoal_from_block": {
+    "criteria": {
+      "has_charcoal_block": "2025-06-07 03:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-07 04:06:23 +0000"
+    },
+    "done": true
+  },
   "betterend:portal_travel": {
     "criteria": {
       "travel": "2025-06-07 03:27:14 +0000"
@@ -5958,9 +5977,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-06-07 04:03:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-06-07 03:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-06-07 04:03:51 +0000"
     },
     "done": true
   },
@@ -6003,6 +6034,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-06-07 03:31:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-06-07 03:43:05 +0000"
     },
     "done": true
   },

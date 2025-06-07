@@ -5883,15 +5883,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_glazed_terracotta": {
+  "nova_structures:adventure/find_swamp_village": {
     "criteria": {
-      "has_red_terracotta": "2025-06-07 03:32:03 +0000"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/stone/nether_bricks": {
-    "criteria": {
-      "requirement": "2025-06-07 03:29:41 +0000"
+      "minecraft:village_swamp": "2025-06-07 02:40:32 +0000"
     },
     "done": true
   },
@@ -5901,21 +5895,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_glazed_terracotta": {
-    "criteria": {
-      "has_blue_terracotta": "2025-06-07 03:32:02 +0000"
-    },
-    "done": true
-  },
   "betterend:portal_travel": {
     "criteria": {
       "travel": "2025-06-07 03:27:11 +0000"
     },
     "done": true
   },
-  "nova_structures:adventure/find_swamp_village": {
+  "master_cutter:recipes/stone/nether_bricks": {
     "criteria": {
-      "minecraft:village_swamp": "2025-06-07 02:40:32 +0000"
+      "requirement": "2025-06-07 03:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-06-07 03:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-06-07 03:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-06-07 04:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2025-06-07 04:09:44 +0000"
     },
     "done": true
   },
