@@ -5938,6 +5938,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_shard_to_dust": {
+    "criteria": {
+      "has_item.betterend.ender_shard": "2025-06-07 03:16:21 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_swamp_village": {
     "criteria": {
       "minecraft:village_swamp": "2025-06-07 02:40:20 +0000"

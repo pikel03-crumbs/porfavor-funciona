@@ -2320,3 +2320,10 @@ Reason: Banned by an operator.
 [03:05:52] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
 [03:05:55] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
 [03:06:30] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[03:10:05] [Server thread/WARN]: UUID of added entity already exists: class_1481['Turtle'/46003, l='ServerLevel[world]', x=-176.03, y=52.00, z=37.37]
+[03:10:50] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/32850, l='ServerLevel[world]', x=101.94, y=64.00, z=148.63] at TeleportTarget{pitch=50.26033, position=(-1.5, 76.0, 22.62618669824988), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-85.951546}
+[03:11:51] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/32850, l='ServerLevel[world]', x=-1.61, y=75.00, z=23.70] at TeleportTarget{pitch=41.976414, position=(102.5, 63.0, 149.69999998807907), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-16.573793}
+[03:12:10] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/13617, l='ServerLevel[world]', x=102.55, y=63.00, z=148.30] at TeleportTarget{pitch=20.725117, position=(-1.5, 75.0, 22.30000001192093), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-15.171997}
+[03:17:07] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1305.500000, 16.500000, -747.500000]
+[03:17:12] [Server thread/WARN]: Pikel_03 moved too quickly! 1412.3474369405762,30.51102912385573,745.7119913861017
+[03:17:25] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -5358.500000, 58.500000, 1984.500000]

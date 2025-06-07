@@ -3991,12 +3991,14 @@
   },
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
+      "nova_structures:nether_skeleton_tower_warped": "2025-06-07 03:03:00 +0000",
       "nova_structures:nether_skeleton_tower_basalt": "2025-06-01 22:42:50 +0000"
     },
     "done": false
   },
   "nova_structures:nether/find_skeleton_tower": {
     "criteria": {
+      "nova_structures:nether_skeleton_tower_warped": "2025-06-07 03:03:00 +0000",
       "nova_structures:nether_skeleton_tower_basalt": "2025-06-01 22:42:50 +0000"
     },
     "done": false
