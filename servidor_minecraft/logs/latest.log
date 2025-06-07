@@ -2278,3 +2278,26 @@ BCLib - The End  BiomeSource (7b6462f3)
 [04:27:25] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [04:27:25] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/porfavor-funciona/servidor_minecraft/bclib-sync (allowDelete=true)
 [04:32:16] [Server thread/INFO]: [Not Secure] <ziKoc> mowzi
+[04:49:03] [Server thread/WARN]: ziKoc moved wrongly!
+[04:49:59] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[04:49:59] [Server thread/INFO]: Pikel_03 left the game
+[04:49:59] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[04:50:08] [Server thread/INFO]: Pikel_03[/127.189.11.85:44723] logged in with entity id 12337 at (19.66162319046686, 191.35794250267742, 345.33759592734043)
+[04:50:08] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[04:50:08] [Server thread/INFO]: Loading config from file...
+[04:50:08] [Server thread/INFO]: Pikel_03 joined the game
+[04:50:08] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[04:50:08] [ForkJoinPool-5-worker-3/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[04:50:08] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[04:50:08] [ForkJoinPool-5-worker-3/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[04:50:09] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:50:09] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:50:09] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:50:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:50:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:50:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:50:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[04:50:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[04:50:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[04:50:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[04:50:09] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/porfavor-funciona/servidor_minecraft/bclib-sync (allowDelete=true)
