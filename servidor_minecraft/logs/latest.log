@@ -2271,3 +2271,21 @@ BCLib - The End  BiomeSource (1d765743)
 [23:01:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [23:01:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [23:01:57] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/porfavor-funciona/servidor_minecraft/bclib-sync (allowDelete=true)
+[23:07:53] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[23:07:53] [Server thread/INFO]: DinokoMC left the game
+[23:13:43] [Server thread/INFO]: DinokoMC[/127.67.254.107:50901] logged in with entity id 5853 at (46.358297319753, 64.0, 165.08561770211122)
+[23:13:43] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[23:13:43] [Server thread/INFO]: Loading config from file...
+[23:13:43] [Server thread/INFO]: DinokoMC joined the game
+[23:13:43] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[23:13:50] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[23:13:50] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[23:13:50] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[23:13:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[23:13:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[23:13:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[23:13:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[23:13:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[23:13:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[23:13:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[23:13:50] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/porfavor-funciona/servidor_minecraft/bclib-sync (allowDelete=true)
