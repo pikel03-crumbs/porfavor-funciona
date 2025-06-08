@@ -6061,5 +6061,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-08 23:22:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:turtle": "2025-06-08 23:22:21 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
