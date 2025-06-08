@@ -7105,6 +7105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-08 23:52:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-06-08 23:18:40 +0000"
@@ -7116,6 +7122,12 @@
       "minecraft:turtle": "2025-06-08 23:18:40 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-08 23:52:17 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
