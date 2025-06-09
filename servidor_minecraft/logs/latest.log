@@ -81,3 +81,11 @@
 [02:11:03] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
 [02:13:03] [Server thread/INFO]: [Pikel_03: Set own game mode to Adventure Mode]
 [02:13:07] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[02:20:35] [Server thread/INFO]: [Pikel_03: Set own game mode to Adventure Mode]
+[02:20:37] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[02:20:46] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[02:21:32] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[02:23:56] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[02:24:03] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[02:26:00] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -4.500000, 75.500000, 23.500000]
+[02:26:14] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/38492, l='ServerLevel[world]', x=-2.00, y=75.00, z=23.36] at TeleportTarget{pitch=65.148315, position=(102.5, 63.0, 149.36140064406814), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-177.1217}
