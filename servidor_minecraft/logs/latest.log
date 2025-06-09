@@ -49,3 +49,32 @@
 [01:47:05] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
 [01:47:15] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -4.500000, 75.500000, 23.500000]
 [01:47:18] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/5853, l='ServerLevel[world]', x=-1.48, y=75.00, z=23.03] at TeleportTarget{pitch=21.944393, position=(102.5, 63.0, 149.02544803617255), velocity=(0.0, -0.0784000015258789, 0.0), yaw=146.91537}
+[01:49:12] [Server thread/INFO]: DinokoMC has made the advancement [Local Brewery]
+[01:49:15] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[01:49:33] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[01:49:48] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -4.500000, 75.500000, 23.500000]
+[01:49:52] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/5853, l='ServerLevel[world]', x=-1.44, y=75.00, z=23.20] at TeleportTarget{pitch=18.89504, position=(102.5, 63.0, 149.20384275109723), velocity=(0.0, -0.0784000015258789, 0.0), yaw=133.93494}
+[01:53:26] [Worker-Main-19/INFO]: Instantiating Mojang DFU
+[01:57:08] [Worker-Main-21/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:57:08] [Worker-Main-21/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:57:08] [Worker-Main-21/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:57:08] [Worker-Main-21/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:57:08] [Worker-Main-21/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:58:44] [Worker-Main-21/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:58:44] [Worker-Main-21/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:58:44] [Worker-Main-21/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:59:02] [Worker-Main-20/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:59:02] [Worker-Main-20/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:59:02] [Worker-Main-20/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:59:02] [Worker-Main-21/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:59:02] [Worker-Main-21/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:01:08] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:01:08] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:02:40] [Worker-Main-21/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:02:46] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:02:46] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:02:46] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:04:59] [Server thread/INFO]: [Pikel_03: Applied enchantment Soul Speed III to Pikel_03's item]
+[02:05:10] [Server thread/INFO]: [Pikel_03: Kicked DinokoMC: Kicked by an operator]
+[02:05:10] [Server thread/INFO]: DinokoMC lost connection: Kicked by an operator
+[02:05:10] [Server thread/INFO]: DinokoMC left the game
