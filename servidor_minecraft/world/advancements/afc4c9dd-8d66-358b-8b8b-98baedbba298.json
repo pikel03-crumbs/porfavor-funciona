@@ -16,6 +16,7 @@
       "minecraft:old_growth_pine_taiga": "2025-06-03 19:44:40 +0000",
       "minecraft:taiga": "2025-05-31 00:40:13 +0000",
       "minecraft:deep_ocean": "2025-06-03 20:32:01 +0000",
+      "minecraft:eroded_badlands": "2025-06-09 03:20:43 +0000",
       "minecraft:frozen_river": "2025-06-03 20:43:14 +0000",
       "minecraft:sunflower_plains": "2025-06-03 02:23:19 +0000",
       "minecraft:cherry_grove": "2025-06-03 20:32:44 +0000",
@@ -23,6 +24,7 @@
       "minecraft:windswept_hills": "2025-06-01 03:32:46 +0000",
       "minecraft:bamboo_jungle": "2025-06-03 20:15:50 +0000",
       "minecraft:wooded_badlands": "2025-06-03 20:35:25 +0000",
+      "minecraft:badlands": "2025-06-09 03:20:41 +0000",
       "minecraft:savanna_plateau": "2025-06-03 20:29:49 +0000",
       "minecraft:beach": "2025-05-29 00:57:48 +0000",
       "minecraft:dark_forest": "2025-06-01 04:30:20 +0000",
@@ -7171,11 +7173,107 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-09 03:10:30 +0000"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/stone/red_sandstone": {
+    "criteria": {
+      "requirement": "2025-06-09 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-09 03:10:30 +0000"
+    },
+    "done": true
+  },
   "nova_structures:nether/find_piglins": {
     "criteria": {
       "nova_structures:piglin_camp": "2025-06-09 01:52:05 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-09 03:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-09 03:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-09 03:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-09 03:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-09 03:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-09 03:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-09 03:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-09 03:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:24:09 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
@@ -7183,9 +7281,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:24:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-06-09 01:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-09 03:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:24:09 +0000"
     },
     "done": true
   },
