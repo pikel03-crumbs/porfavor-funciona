@@ -36,3 +36,16 @@
 [01:29:48] [Server thread/INFO]: Created new backpack backup file for Pikel_03 with unique ID travelersbackpack.netherite_09.06.2025-01.29.48.dat
 [01:29:50] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
 [01:34:05] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 52.500000, 64.500000, 161.500000]
+[01:38:50] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1305.500000, 16.500000, -747.500000]
+[01:38:54] [Server thread/WARN]: Pikel_03 moved too quickly! 1411.1957087588544,30.464159374955443,745.711193246455
+[01:39:04] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[01:39:12] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/38492, l='ServerLevel[world]', x=102.70, y=63.00, z=148.45] at TeleportTarget{pitch=39.348568, position=(-1.5, 75.0, 22.454141501659223), velocity=(0.0, -0.0784000015258789, 0.0), yaw=17.77857}
+[01:40:04] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[01:41:08] [Server thread/INFO]: DinokoMC fell from a high place
+[01:41:08] [Server thread/INFO]: Created new backpack backup file for DinokoMC with unique ID travelersbackpack.spider_09.06.2025-01.41.08.dat
+[01:41:11] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:41:29] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 20.500000, 63.500000, 352.500000]
+[01:43:03] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/38492, l='ServerLevel[world]', x=102.39, y=63.00, z=149.26] at TeleportTarget{pitch=37.304737, position=(-1.5, 75.0, 23.2591803524206), velocity=(0.0, -0.0784000015258789, 0.0), yaw=85.75}
+[01:47:05] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[01:47:15] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -4.500000, 75.500000, 23.500000]
+[01:47:18] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/5853, l='ServerLevel[world]', x=-1.48, y=75.00, z=23.03] at TeleportTarget{pitch=21.944393, position=(102.5, 63.0, 149.02544803617255), velocity=(0.0, -0.0784000015258789, 0.0), yaw=146.91537}
