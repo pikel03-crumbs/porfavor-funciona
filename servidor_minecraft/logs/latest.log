@@ -13,3 +13,19 @@
 [00:27:17] [Server thread/INFO]: Pikel_03 has reached the goal [Beaconator]
 [00:35:55] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
 [00:35:55] [Server thread/INFO]: Pikel_03 left the game
+[00:55:55] [Server thread/INFO]: Pikel_03[/127.189.11.85:42669] logged in with entity id 38492 at (32.11427397390853, 116.0, 24.290990906559863)
+[00:55:55] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[00:55:55] [Server thread/INFO]: Loading config from file...
+[00:55:55] [Server thread/INFO]: Pikel_03 joined the game
+[00:55:55] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[00:55:55] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:55:55] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:55:55] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:55:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:55:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:55:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:55:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:55:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:55:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:55:55] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:55:55] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/porfavor-funciona/servidor_minecraft/bclib-sync (allowDelete=true)
