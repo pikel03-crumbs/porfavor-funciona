@@ -7347,5 +7347,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-06-09 03:58:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
