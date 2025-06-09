@@ -156,3 +156,24 @@
 [03:32:30] [Worker-Main-21/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
 [03:33:00] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 59.500000, 64.500000, 177.500000]
 [03:35:21] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[03:52:05] [Server thread/INFO]: [DinokoMC: Gave 1 [Enchanted Golden Apple] to DinokoMC]
+[03:56:57] [Server thread/INFO]: Pikel_03 lost connection: Timed out
+[03:56:57] [Server thread/INFO]: Pikel_03 left the game
+[03:57:05] [Server thread/INFO]: Pikel_03[/127.189.11.85:39039] logged in with entity id 149914 at (49.80809247146703, 64.0, 147.21010742547276)
+[03:57:05] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[03:57:05] [Server thread/INFO]: Loading config from file...
+[03:57:05] [Server thread/INFO]: Pikel_03 joined the game
+[03:57:06] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[03:57:10] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:57:10] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:57:10] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:57:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:57:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:57:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:57:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:57:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:57:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:57:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:57:10] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/porfavor-funciona/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:57:15] [Server thread/WARN]: DinokoMC moved wrongly!
+[03:59:55] [Server thread/INFO]: [Not Secure] <DinokoMC> anticlik???

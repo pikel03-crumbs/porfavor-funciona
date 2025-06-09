@@ -7173,9 +7173,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/melon_seeds": {
+  "nova_structures:nether/find_piglins": {
     "criteria": {
-      "has_melon": "2025-06-09 03:44:21 +0000"
+      "nova_structures:piglin_camp": "2025-06-09 01:52:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-06-09 01:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-09 01:57:42 +0000"
     },
     "done": true
   },
@@ -7185,27 +7197,9 @@
     },
     "done": true
   },
-  "master_cutter:recipes/stone/red_sandstone": {
-    "criteria": {
-      "requirement": "2025-06-09 03:24:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-09 03:10:30 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:nether/find_piglins": {
-    "criteria": {
-      "nova_structures:piglin_camp": "2025-06-09 01:52:05 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
-    "criteria": {
-      "has_red_sandstone": "2025-06-09 03:24:09 +0000"
     },
     "done": true
   },
@@ -7215,39 +7209,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_red_sandstone": {
-    "criteria": {
-      "has_red_sandstone": "2025-06-09 03:24:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-06-09 03:25:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_red_sandstone": "2025-06-09 03:24:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-06-09 03:25:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-09 03:10:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone_slab": {
-    "criteria": {
-      "has_red_sandstone": "2025-06-09 03:24:09 +0000"
     },
     "done": true
   },
@@ -7275,9 +7239,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
+  "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
-      "has_melon": "2025-06-09 03:44:21 +0000"
+      "has_planks": "2025-06-09 03:10:30 +0000"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/stone/red_sandstone": {
+    "criteria": {
+      "requirement": "2025-06-09 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-09 03:24:09 +0000"
     },
     "done": true
   },
@@ -7287,33 +7281,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
-    "criteria": {
-      "has_snout_armor_trim_smithing_template": "2025-06-09 01:57:42 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/melon": {
-    "criteria": {
-      "has_melon_slice": "2025-06-09 03:44:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-06-09 03:24:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-06-09 03:44:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-09 01:57:42 +0000"
     },
     "done": true
   },
@@ -7329,12 +7299,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2025-06-09 03:10:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-06-09 03:24:09 +0000"
@@ -7344,6 +7308,42 @@
   "minecraft:recipes/decorations/red_sandstone_wall": {
     "criteria": {
       "has_red_sandstone": "2025-06-09 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-09 03:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-09 03:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-09 03:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-09 03:44:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-06-09 03:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-09 03:44:21 +0000"
     },
     "done": true
   },
