@@ -5779,6 +5779,7 @@
   },
   "betterend:aeternium_tool": {
     "criteria": {
+      "got_aeternium_pickaxe": "2025-06-10 03:49:07 +0000",
       "got_aeternium_sword": "2025-06-04 23:26:57 +0000"
     },
     "done": false
