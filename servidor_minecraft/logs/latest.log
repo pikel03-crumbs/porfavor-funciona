@@ -2586,3 +2586,8 @@ BCLib - The End  BiomeSource (4cb5deb2)
 [20:53:51] [Server thread/INFO]: [ziKoc: Teleported ziKoc to -1.500000, 75.500000, 23.500000]
 [20:53:53] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/25579, l='ServerLevel[world]', x=-1.50, y=75.04, z=23.50] at TeleportTarget{pitch=10.755491, position=(102.5, 63.03584062504456, 149.50000077486038), velocity=(0.0, -0.0784000015258789, 0.0), yaw=130.39516}
 [20:54:23] [Server thread/WARN]: ziKoc moved too quickly! -17.94159095758181,2.7818965711131796,-3.060180846694948
+[20:57:46] [Server thread/INFO]: [Not Secure] <Pikel_03> volvi
+[20:58:30] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1.500000, 75.500000, 23.500000]
+[20:58:32] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/434, l='ServerLevel[world]', x=-1.42, y=75.00, z=23.69] at TeleportTarget{pitch=77.056404, position=(102.5, 63.0, 149.69254302430102), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-26.208008}
+[21:01:58] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[21:01:58] [Server thread/INFO]: Pikel_03 left the game
