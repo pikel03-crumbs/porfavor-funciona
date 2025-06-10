@@ -5962,5 +5962,41 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-10 03:01:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:turtle": "2025-06-10 03:01:06 +0000"
+    },
+    "done": false
+  },
+  "master_cutter:recipes/wood/oak": {
+    "criteria": {
+      "requirement": "2025-06-10 03:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-10 03:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-10 03:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-06-10 03:13:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
