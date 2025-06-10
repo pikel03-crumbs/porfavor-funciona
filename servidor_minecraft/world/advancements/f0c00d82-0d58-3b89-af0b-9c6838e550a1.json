@@ -1419,6 +1419,7 @@
       "minecraft:slime": "2025-06-07 02:42:40 +0000",
       "minecraft:evoker": "2025-06-09 00:14:44 +0000",
       "minecraft:phantom": "2025-06-07 01:44:58 +0000",
+      "minecraft:zombified_piglin": "2025-06-10 05:05:45 +0000",
       "minecraft:witch": "2025-06-07 02:32:47 +0000",
       "minecraft:wither_skeleton": "2025-05-31 01:33:30 +0000",
       "minecraft:ender_dragon": "2025-06-02 01:22:00 +0000",
@@ -6242,12 +6243,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
-    "criteria": {
-      "has_deepslate_lapis_ore": "2025-06-10 03:38:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-06-10 03:11:21 +0000"
@@ -6257,6 +6252,24 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-06-10 03:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-10 03:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-06-10 03:12:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-06-10 03:26:59 +0000"
     },
     "done": true
   },
@@ -6272,27 +6285,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-06-10 04:07:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-06-10 03:27:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2025-06-10 03:12:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-06-10 03:11:21 +0000"
     },
     "done": true
   },
@@ -6302,9 +6297,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
     "criteria": {
-      "has_carrot": "2025-06-10 03:39:34 +0000"
+      "has_deepslate_lapis_ore": "2025-06-10 03:38:44 +0000"
     },
     "done": true
   },
@@ -6314,9 +6309,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_peony": "2025-06-10 03:26:59 +0000"
+      "has_carrot": "2025-06-10 03:39:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-06-10 04:07:21 +0000"
     },
     "done": true
   },
