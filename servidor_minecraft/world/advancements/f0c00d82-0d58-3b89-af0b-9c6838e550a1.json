@@ -6180,5 +6180,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-10 01:47:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-06-10 01:27:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
