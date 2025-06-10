@@ -2611,3 +2611,16 @@ BCLib - The End  BiomeSource (4cb5deb2)
 [21:51:17] [Server thread/INFO]: ziKoc left the game
 [21:52:40] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -4.500000, 75.500000, 23.500000]
 [21:52:44] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/106596, l='ServerLevel[world]', x=-1.50, y=75.00, z=23.32] at TeleportTarget{pitch=17.290493, position=(102.5, 63.0, 149.32275876496706), velocity=(0.0, -0.0784000015258789, 0.0), yaw=93.33704}
+[22:08:45] [Server thread/INFO]: You whisper to DinokoMC: tu tienes que ser mrko
+[22:08:55] [Server thread/INFO]: [Not Secure] <DinokoMC> wtf
+[22:08:58] [Server thread/INFO]: [Not Secure] <DinokoMC> por??
+[22:09:11] [Server thread/INFO]: Villager class_1646['Butcher'/229, l='ServerLevel[world]', x=49.47, y=64.00, z=153.44] died, message: 'Butcher was shot by Pillager'
+[22:09:25] [Server thread/INFO]: You whisper to DinokoMC: por que te llamas dinokokoko
+[22:09:54] [Server thread/INFO]: [Not Secure] <DinokoMC> ajjuaja
+[22:10:14] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[22:10:14] [Server thread/INFO]: msg di/msg dinokomc mira causa voy a reiniciar mi pc asi que puede que se apague el server<--[HERE]
+[22:10:33] [Server thread/INFO]: You whisper to DinokoMC: mira causa voy a reiniciar mi pc asi que puede que se apague el server
+[22:10:37] [Server thread/INFO]: [Not Secure] <DinokoMC> mano entra al server
+[22:10:45] [Server thread/INFO]: [Not Secure] <DinokoMC> na
+[22:10:47] [Server thread/INFO]: [Not Secure] <DinokoMC> dale
+[22:11:08] [Server thread/INFO]: Villager class_1646['Armorer'/228, l='ServerLevel[world]', x=54.53, y=64.00, z=165.31] died, message: 'Armorer was slain by DinokoMC'
