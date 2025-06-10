@@ -2583,3 +2583,6 @@ BCLib - The End  BiomeSource (4cb5deb2)
 [20:39:44] [Server thread/INFO]: Async chunk loading for player ziKoc completed
 [20:39:48] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 20.500000, 63.500000, 352.500000]
 [20:41:49] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/25579, l='ServerLevel[world]', x=102.70, y=63.00, z=148.35] at TeleportTarget{pitch=38.38971, position=(-1.5, 75.0, 22.345251646199074), velocity=(0.0, -0.0784000015258789, 0.0), yaw=4.393739}
+[20:53:51] [Server thread/INFO]: [ziKoc: Teleported ziKoc to -1.500000, 75.500000, 23.500000]
+[20:53:53] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/25579, l='ServerLevel[world]', x=-1.50, y=75.04, z=23.50] at TeleportTarget{pitch=10.755491, position=(102.5, 63.03584062504456, 149.50000077486038), velocity=(0.0, -0.0784000015258789, 0.0), yaw=130.39516}
+[20:54:23] [Server thread/WARN]: ziKoc moved too quickly! -17.94159095758181,2.7818965711131796,-3.060180846694948
