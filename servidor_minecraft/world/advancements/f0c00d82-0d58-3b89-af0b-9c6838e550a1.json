@@ -5828,6 +5828,7 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "swamp_village": "2025-06-07 02:40:20 +0000",
+      "pillager_outpost": "2025-06-10 02:44:27 +0000",
       "illager_camp": "2025-06-05 00:41:12 +0000"
     },
     "done": false
@@ -6210,6 +6211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-10 02:45:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-06-10 02:22:23 +0000"
@@ -6219,6 +6226,18 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-06-10 02:22:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-10 02:45:27 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-06-10 02:44:27 +0000"
     },
     "done": true
   },

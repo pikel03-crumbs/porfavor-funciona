@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-06-10 02:38:17 +0000",
       "minecraft:taiga": "2025-06-01 03:35:26 +0000",
       "minecraft:sunflower_plains": "2025-06-03 02:22:51 +0000",
       "minecraft:cherry_grove": "2025-06-04 02:12:31 +0000",
@@ -25,11 +26,15 @@
       "minecraft:sparse_jungle": "2025-06-07 03:27:35 +0000",
       "minecraft:river": "2025-05-31 01:14:00 +0000",
       "minecraft:stony_shore": "2025-06-02 03:26:54 +0000",
+      "minecraft:snowy_taiga": "2025-06-10 02:38:22 +0000",
       "minecraft:swamp": "2025-06-07 02:42:55 +0000",
       "minecraft:cold_ocean": "2025-06-03 02:17:19 +0000",
       "minecraft:forest": "2025-05-30 02:51:24 +0000",
       "minecraft:lush_caves": "2025-06-01 04:32:22 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-10 02:47:22 +0000",
+      "minecraft:frozen_ocean": "2025-06-10 02:46:37 +0000",
       "minecraft:windswept_forest": "2025-06-01 04:29:02 +0000",
+      "minecraft:deep_frozen_ocean": "2025-06-10 02:46:43 +0000",
       "minecraft:ocean": "2025-06-02 01:16:21 +0000",
       "minecraft:jungle": "2025-06-07 03:31:59 +0000",
       "minecraft:windswept_savanna": "2025-06-07 03:27:12 +0000",
@@ -5457,6 +5462,7 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "swamp_village": "2025-06-07 02:40:32 +0000",
+      "pillager_outpost": "2025-06-10 02:38:21 +0000",
       "illager_camp": "2025-06-02 04:20:07 +0000"
     },
     "done": false
@@ -5935,6 +5941,24 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-06-07 04:26:35 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-06-10 02:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-10 02:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-10 02:45:05 +0000"
     },
     "done": true
   },
