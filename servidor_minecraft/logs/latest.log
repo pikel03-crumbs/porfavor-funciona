@@ -2997,3 +2997,8 @@ Reason: Banned by an operator.
 [03:52:45] [Server thread/INFO]: [Not Secure] <DinokoMC> nether wastes
 [03:53:23] [Server thread/INFO]: [Pikel_03: Gave 1 [Structure Block] to Pikel_03]
 [03:53:35] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[03:55:20] [Server thread/WARN]: DinokoMC moved wrongly!
+[03:56:54] [Server thread/INFO]: [Not Secure] <DinokoMC> xaero-waypoint:Granja de oro:G:-40:128:-806:15:false:0:Internal-the-nether-waypoints
+[03:57:28] [Server thread/INFO]: [Pikel_03: Gave 1 [Structure Block] to Pikel_03]
+[04:01:26] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -4.500000, 75.500000, 23.500000]
+[04:01:30] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/78484, l='ServerLevel[world]', x=-2.09, y=75.00, z=23.68] at TeleportTarget{pitch=15.484479, position=(102.5, 63.0, 149.67951160389018), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-4.076907}
