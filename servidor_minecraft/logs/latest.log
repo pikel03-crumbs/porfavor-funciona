@@ -2591,3 +2591,23 @@ BCLib - The End  BiomeSource (4cb5deb2)
 [20:58:32] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/434, l='ServerLevel[world]', x=-1.42, y=75.00, z=23.69] at TeleportTarget{pitch=77.056404, position=(102.5, 63.0, 149.69254302430102), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-26.208008}
 [21:01:58] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
 [21:01:58] [Server thread/INFO]: Pikel_03 left the game
+[21:49:50] [Server thread/INFO]: DinokoMC[/127.67.254.107:39733] logged in with entity id 106596 at (-51.62808574724403, 128.0, -770.3543891937026)
+[21:49:50] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[21:49:50] [Server thread/INFO]: Loading config from file...
+[21:49:50] [Server thread/INFO]: DinokoMC joined the game
+[21:49:50] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[21:49:56] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[21:49:56] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[21:49:56] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[21:49:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[21:49:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[21:49:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[21:49:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[21:49:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[21:49:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[21:49:56] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[21:49:56] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/porfavor-funciona/servidor_minecraft/bclib-sync (allowDelete=true)
+[21:51:17] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[21:51:17] [Server thread/INFO]: ziKoc left the game
+[21:52:40] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -4.500000, 75.500000, 23.500000]
+[21:52:44] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/106596, l='ServerLevel[world]', x=-1.50, y=75.00, z=23.32] at TeleportTarget{pitch=17.290493, position=(102.5, 63.0, 149.32275876496706), velocity=(0.0, -0.0784000015258789, 0.0), yaw=93.33704}
