@@ -2569,3 +2569,11 @@ BCLib - The End  BiomeSource (4cb5deb2)
 [19:21:20] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 175.500000, 70.500000, 117.500000]
 [19:21:27] [Server thread/INFO]: [Not Secure] <ziKoc> pasa el wypoint del portal
 [19:21:37] [Server thread/INFO]: [Not Secure] <Pikel_03> xaero-waypoint:portal:P:-2:75:23:12:false:0:Internal-the-nether-waypoints
+[19:25:50] [Server thread/WARN]: ziKoc moved too quickly! -10.341801873695033,10.064706247413568,-10.208373710052257
+[19:26:00] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/25579, l='ServerLevel[world]', x=-1.48, y=75.00, z=23.43] at TeleportTarget{pitch=41.103825, position=(102.5, 63.0, 149.4334652931359), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-166.46289}
+[19:27:31] [Server thread/WARN]: Pikel_03 moved wrongly!
+[19:31:55] [Server thread/INFO]: [Not Secure] <ziKoc> me voa quedar afk
+[19:32:29] [Server thread/INFO]: ziKoc fell from a high place
+[19:32:29] [Server thread/INFO]: Created new backpack backup file for ziKoc with unique ID travelersbackpack.dragon_10.06.2025-19.32.29.dat
+[19:32:32] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[19:32:33] [Server thread/INFO]: [Not Secure] <ziKoc> XD
