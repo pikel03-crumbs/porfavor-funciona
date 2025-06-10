@@ -2578,3 +2578,8 @@ BCLib - The End  BiomeSource (4cb5deb2)
 [19:32:32] [Server thread/INFO]: Async chunk loading for player ziKoc completed
 [19:32:33] [Server thread/INFO]: [Not Secure] <ziKoc> XD
 [20:01:38] [Server thread/WARN]: ziKoc moved wrongly!
+[20:39:43] [Server thread/INFO]: ziKoc fell from a high place
+[20:39:43] [Server thread/INFO]: Created new backpack backup file for ziKoc with unique ID travelersbackpack.dragon_10.06.2025-20.39.43.dat
+[20:39:44] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[20:39:48] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 20.500000, 63.500000, 352.500000]
+[20:41:49] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/25579, l='ServerLevel[world]', x=102.70, y=63.00, z=148.35] at TeleportTarget{pitch=38.38971, position=(-1.5, 75.0, 22.345251646199074), velocity=(0.0, -0.0784000015258789, 0.0), yaw=4.393739}
