@@ -3002,3 +3002,5 @@ Reason: Banned by an operator.
 [03:57:28] [Server thread/INFO]: [Pikel_03: Gave 1 [Structure Block] to Pikel_03]
 [04:01:26] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -4.500000, 75.500000, 23.500000]
 [04:01:30] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/78484, l='ServerLevel[world]', x=-2.09, y=75.00, z=23.68] at TeleportTarget{pitch=15.484479, position=(102.5, 63.0, 149.67951160389018), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-4.076907}
+[04:06:23] [Server thread/INFO]: Pikel_03 lost connection: Timed out
+[04:06:23] [Server thread/INFO]: Pikel_03 left the game
